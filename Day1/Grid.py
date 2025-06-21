@@ -1,5 +1,5 @@
 from tkinter import *
-root= Tk("Chuong trinh")
+root= Tk()
 
 lable1=Label(root,text="Cot 1/Hang 1").grid(row=0,column=0)
 lable2=Label(root,text="Cot 2").grid(row=0,column=1)
